@@ -14,4 +14,4 @@ npm start
 
 [codesandbox example](https://codesandbox.io/s/react-pagination-with-get-params-in-url-context-version-dw9m3)
 
-![screenshot]()
+![screenshot](https://github.com/Skolozub/React-pagination-with-get-params-in-URL-Context-version/blob/master/screenshot.jpg)
